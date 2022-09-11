@@ -1,2 +1,5 @@
 # COCO_TOOLS
-Tools for the COCO-formatted JSON annotation files. Currently contains a python-script to scale a dataset of images and their corresponding coco-file.
+Tools for the COCO-formatted JSON annotation files. 
+
+## Scale a whole dataset annotated with a COCO-File. 
+Currently only supports BBox. Just give input cocofile and a path to image directory.
