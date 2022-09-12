@@ -1,4 +1,4 @@
-# COCO_TOOLS
+# COCO-tool
 Tools for the COCO-formatted JSON annotation files. 
 
 ## Scale a whole dataset annotated with a COCO-File. 
